@@ -4,24 +4,11 @@ AI-assisted Chinese translation for the SPT Lotus custom trader mod.
 
 ## Installation
 
-1. Make sure **Lotus** and **Virtual's Custom Quest Loader** are installed
-2. Back up your profile at `user/profiles/`
-3. Copy the `user` folder from this patch to your SPT root directory and merge
-4. Start the server to verify — the first quest unlocks at **Level 5**
-
-## Compatibility
-
-| Patch | Lotus | SPT |
-|-------|-------|-----|
-| v1.0.0 | 1.7.1 | 4.0.13 |
+Extract and overwrite to SPT root directory.
 
 ## Recommended Mods
 
 UI Fixes · ETT · Dynamic Maps · Game Panel HUD · Trader QoL · Kaeno-TraderScrolling
-
-## Known Conflicts
-
-Realism Mod · Kalashnikov Enhanced Modding · Too many trader mods
 
 ## License
 

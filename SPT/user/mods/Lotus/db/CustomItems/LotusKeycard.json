@@ -1,0 +1,49 @@
+{
+  "6747b519aa6cb78b189e6081": {
+    "itemTplToClone": "5c94bbff86f7747ee735c08f",
+    "parentId": "5c164d2286f774194c5e69fa",
+    "handbookParentId": "5c518ed586f774119a772aee",
+    "overrideProperties": {
+      "BackgroundColor": "yellow",
+      "Prefab": {
+        "path": "assets/content/items/spec/item_keycard_lab/item_keycard_lab_white_sanitar.bundle",
+        "rcid": ""
+      },
+      "MaximumNumberOfUsage": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Lotus' Modified TerraGroup Labs Access Keycard",
+        "shortName": "Lotus",
+        "description": "A modified version of a single-use United Security-issues TerraGroup Labs access keycard. Essentially providing unlimited access to the TerraGroup laboratory. Painted in a certain shade of blue, Lotus' signature color, to distinguish it from ordinary access keycards. Coincidentally, an ex-Terragroup employee who is now the leader of one of the local bandit groups, used the same shade of blue to mark the key to his office inside the Terragroup laboratory."
+      },
+      "ch": {
+        "name": "莲花的泰拉集团实验室改造成员卡",
+        "shortName": "莲花",
+        "description": "一张经过改造的单次使用联合安全泰拉集团实验室访问钥匙卡。实际上提供对泰拉集团实验室的无限访问权限。卡片涂有莲花标志性的蓝色调，以区别于普通的访问钥匙卡。巧合的是，一位前泰拉集团员工——现在是当地一个匪帮的头目——曾用同样的蓝色标记他在泰拉集团实验室办公室的钥匙。"
+      }
+    },
+    "CanRequireOnRagfair": false,
+    "CanSellOnRagfair": false,
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 900000,
+    "handbookPriceRoubles": 900000,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "masterySections": [],
+    "addtoItemBlacklist": true
+  }
+}
